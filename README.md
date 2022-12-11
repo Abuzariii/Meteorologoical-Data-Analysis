@@ -1,7 +1,7 @@
 # Meteorologoical-Data-Analysis
 EDA on Finland's meteorological data from 2006 to 2016
 
-The article is written [here.](https://abuzar.hashnode.dev/exploratory-data-analysis-on-meteorological-data)
+The article is written on Hashnode [here](https://abuzar.hashnode.dev/exploratory-data-analysis-on-meteorological-data) and on Medium [here.](https://medium.com/@Abuzariii/exploratory-data-analysis-on-meteorological-data-ba32a4e6b5b5)
 
 ## Abstract
 
